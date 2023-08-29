@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning full stack web dev
 - 📫 How to reach me discord Mpiie#9428
 
+
+CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
 <!---
 devit7/devit7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
