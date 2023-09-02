@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning full stack web dev
 - 📫 How to reach me discord Mpiie#9428
-<img src="https://komarev.com/ghpvc/?username=devit78&label=Visitor%20Count&color=0e75b6&style=flat" alt="devit7"/>
+
 --------------------------------------------------
 CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
 --------------------------------------------------
