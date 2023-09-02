@@ -21,6 +21,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devit7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devit7&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=devit7&show_icons=true&locale=en&layout=compact" alt="Most Used Languages by devit7"/></div>  
 <br/>  
