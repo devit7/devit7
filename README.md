@@ -2,11 +2,11 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning full stack web dev
 - 📫 How to reach me discord Mpiie#9428
-
+u can find me in there --> https://mpiie.my.id
 --------------------------------------------------
 CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
 --------------------------------------------------
-u can find me in there --> https://mpiie.my.id
+
 ![Metrics](https://metrics.lecoq.io/devit7?template=classic&config.timezone=Asia%2FJakarta)
 <!---
 devit7/devit7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
