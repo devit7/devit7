@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning full stack web dev
 - 📫 How to reach me discord Mpiie#9428
-u can find me in there --> https://mpiie.my.id
+- u can find me in there --> https://mpiie.my.id
 --------------------------------------------------
 CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
 --------------------------------------------------
