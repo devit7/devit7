@@ -6,7 +6,7 @@
 --------------------------------------------------
 CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
 --------------------------------------------------
-
+![Metrics](https://metrics.lecoq.io/devit7?template=classic&config.timezone=Asia%2FJakarta)
 u can find me in there --> https://mpiie.my.id
 <!---
 devit7/devit7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
