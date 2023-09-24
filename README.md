@@ -7,7 +7,7 @@
 CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
 --------------------------------------------------
 
-![Metrics](https://metrics.lecoq.io/devit7?template=classic&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/devit7?template=default&config.timezone=Asia%2FJakarta)
 <!---
 devit7/devit7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
