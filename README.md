@@ -1,4 +1,4 @@
-## <span style="color:#1A73E8">Hi there, I'm devit7! 👋</span>
+# <span style="color:#1A73E8">Hi there, I'm devit7! 👋</span>
 
 I'm a web developer and a passionate CTF player. I love exploring the realm of cybersecurity, bug bounties, and everything related to it. Feel free to reach out to me if you have any questions or just want to connect!
 
@@ -16,7 +16,7 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
   <a href="https://github.com/devit7?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-1A73E8?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-## <span style="color:#1A73E8">Use To Code</span>
+# <span style="color:#1A73E8">Use To Code</span>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -35,7 +35,7 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
 
 <br/>
 
-## <span style="color:#1A73E8">Statistik</span>
+# <span style="color:#1A73E8">Statistik</span>
 
 <p align="center">
   <a href="https://github.com/devit7">
