@@ -15,6 +15,7 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
 <p align="left">
   <a href="https://github.com/devit7?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-1A73E8?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -34,7 +35,7 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
 
 <br/>
 
-## Statistik
+## Statistik -
 
 <br/>
 <hr/>
