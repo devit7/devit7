@@ -1,4 +1,4 @@
-## <span style="color:blue">Statistik</span>
+## <span style="color:#1A73E8">Hi there, I'm devit7! 👋</span>
 
 I'm a web developer and a passionate CTF player. I love exploring the realm of cybersecurity, bug bounties, and everything related to it. Feel free to reach out to me if you have any questions or just want to connect!
 
