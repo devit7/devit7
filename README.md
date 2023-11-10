@@ -20,8 +20,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=web-projects&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/web-projects)
-[![devit7 Folio](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=al-folio&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/al-folio)
 [![devit7 Readme](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=devit7&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/devit7)
 [![devit7 Teminal](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=devit7.github.io&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/devit7.github.io)
 
