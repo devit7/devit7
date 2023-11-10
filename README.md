@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=web-projects&border_color=0D1117&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)](https://github.com/devit7/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=al-folio&border_color=0D1117&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)](https://github.com/devit7/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=devit7&border_color=0D1117&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)](https://github.com/devit7/devit7)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=devit7.github.io&border_color=0D1117&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF)](https://github.com/devit7/devit7.github.io)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devit7/web-projects)
+[![devit7 Folio](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devit7/al-folio)
+[![devit7 Readme](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=devit7&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devit7/devit7)
+[![devit7 Teminal](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=devit7.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devit7/devit7.github.io)
 
 <p align="left">
   <a href="https://github.com/devit7?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -35,21 +35,21 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/devit7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devit7&theme=radical&border=0D1117&background=0D1117" alt="Devit7's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devit7&theme=github_dark&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/devit7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devit7&theme=radical" alt="Devit7's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devit7&theme=github_dark" alt="devit7 GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/devit7"><img alt="Devit7's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devit7&show_icons=true&count_private=true&theme=react&border_color=1d4ed8&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/devit7"><img alt="Devit7's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devit7&langs_count=8&layout=compact&theme=react&border_color=1d4ed8&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/devit7"><img alt="devit7 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devit7&show_icons=true&count_private=true&theme=algolia&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/devit7"><img alt="devit7 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devit7&langs_count=8&layout=compact&theme=algolia&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Devit7 Graph](https://github-readme-activity-graph.vercel.app/graph?username=devit7&custom_title=devit7's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+![devit7 Graph](https://github-readme-activity-graph.vercel.app/graph?username=devit7&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
