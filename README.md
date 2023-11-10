@@ -35,11 +35,7 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
 
 <br/>
 
-## Statistik -
-
-<br/>
-<hr/>
-<br/>
+## Statistik
 
 <p align="center">
   <a href="https://github.com/devit7">
