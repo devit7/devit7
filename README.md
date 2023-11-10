@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @devit7
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning full stack web dev
-- 📫 How to reach me discord Mpiie#9428
-- u can find me in there --> https://mpiie.my.id
+# Hi there, I'm devit7! 👋
 
-<br/>
+I'm a web developer and a passionate CTF player. I love exploring the realm of cybersecurity, bug bounties, and everything related to it. Feel free to reach out to me if you have any questions or just want to connect!
 
-CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
-[![devit7 Teminal](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=CTF-Writeup-Mpiie&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/CTF-Writeup-Mpiie)
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning full stack web development
+- 📫 How to reach me: Discord (Mpiie#9428)
+- 🌐 Check out my website: [mpiie.my.id](https://mpiie.my.id)
 
-<br/>  
+## CTF Writeup
+I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repository where I share my CTF writeups and solutions:
+
+[![devit7 CTF Writeup](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=CTF-Writeup-Mpiie&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/CTF-Writeup-Mpiie)
 
 ## Use To Code
 
