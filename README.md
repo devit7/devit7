@@ -62,4 +62,4 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
 </a>
 
 
-![devit7 Graph](https://github-readme-activity-graph.vercel.app/graph?username=devit7&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=000000&color=1A73E8&line=1A73E8&point=1A73E8&area_color=FFFFFF&title_color=1A73E8&area=true)
+![devit7 Graph](https://github-readme-activity-graph.vercel.app/graph?username=devit7&custom_title=devit7%20GitHub%20Activity%20Graph&bg_color=000000&color=1A73E8&line=1A73E8&point=1A73E8&area_color=FFFFFF&title_color=1A73E8&area=true)
