@@ -3,15 +3,12 @@
 - 🌱 I’m currently learning full stack web dev
 - 📫 How to reach me discord Mpiie#9428
 - u can find me in there --> https://mpiie.my.id
---------------------------------------------------
-CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
---------------------------------------------------
 
-![Metrics](https://metrics.lecoq.io/devit7?template=default&config.timezone=Asia%2FJakarta)
-<!---
-devit7/devit7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+CTF PLAYER.. , CYBERSEC, BUG BOUNTY, I Like All :3
+[![devit7 Teminal](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=CTF-Writeup-Mpiie&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/CTF-Writeup-Mpiie)
+
 <br/>  
 
 ## Use To Code
