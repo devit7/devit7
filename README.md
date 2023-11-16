@@ -11,7 +11,8 @@ I'm a web developer and a passionate CTF player. I love exploring the realm of c
 I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repository where I share my CTF writeups and solutions:
 
 [![devit7 CTF Writeup](https://github-readme-stats.vercel.app/api/pin/?username=devit7&repo=CTF-Writeup-Mpiie&border_color=1A73E8&bg_color=000000&title_color=1A73E8&text_color=FFFFFF&icon_color=1A73E8)](https://github.com/devit7/CTF-Writeup-Mpiie)
-<a href="https://github.com/devit7"><img alt="devit7 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devit7&show_icons=true&count_private=true&theme=blueberry&border_color=1A73E8&bg_color=000000&title_color=1A73E8&icon_color=1A73E8" height="142px" width="50%" /></a>
+<a href="https://github.com/devit7"><img alt="devit7 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devit7&show_icons=true&count_private=true&theme=blueberry&border_color=1A73E8&bg_color=000000&title_color=1A73E8&icon_color=1A73E8" height="142px" width="60%" />
+</a>
 
 <p align="left">
   <a href="https://github.com/devit7?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-1A73E8?style=for-the-badge&logo=koding&logoColor=white"/></a>
