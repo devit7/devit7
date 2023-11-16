@@ -38,14 +38,14 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
 
 # <span style="color:#1A73E8">Statistik</span>
 
-<p align="center">
+
   <a href="https://github.com/devit7">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devit7&theme=blueberry&border=1A73E8&background=000000" alt="Saif's GitHub streak"/>
   </a>
    <a href="https://github.com/devit7">
      <img alt="devit7 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devit7&langs_count=8&layout=compact&theme=blueberry&border_color=1A73E8&bg_color=000000&title_color=1A73E8&icon_color=1A73E8"  />
    </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/devit7">
