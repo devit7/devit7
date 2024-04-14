@@ -48,12 +48,4 @@ I also enjoy participating in Capture The Flag (CTF) competitions. Here's a repo
    </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/devit7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devit7&theme=blueberry" alt="devit7 GitHub Contribution"/>
-  </a>
-</p>
 
-
-
-![devit7 Graph](https://github-readme-activity-graph.vercel.app/graph?username=devit7&custom_title=devit7%20GitHub%20Activity%20Graph&bg_color=000000&color=1A73E8&line=1A73E8&point=1A73E8&area_color=FFFFFF&title_color=1A73E8&area=true)
